@@ -1,0 +1,5 @@
+print("reach goal") 
+print("stick to it")
+print("get to work")
+print("make plan") 
+print("set goal")

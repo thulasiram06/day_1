@@ -1,0 +1,1 @@
+print("""myself P.Thulasiram Ihave completed my intermidiatein tirupati unacademy tirupati in the stream of M.P.C so i recently joined in Bharat uneversity in chennai""")
